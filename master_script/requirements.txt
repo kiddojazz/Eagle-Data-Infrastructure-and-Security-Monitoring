@@ -1,0 +1,14 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+azure-eventhub
+python-dotenv
+Faker
+pycountry
+typing-extensions
+azure-eventhub-checkpointstoreblob-aio
+azure-storage-file-datalake
+pandas
+typing-extensions

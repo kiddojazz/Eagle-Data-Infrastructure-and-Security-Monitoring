@@ -1,0 +1,4 @@
+azure-functions
+pandas
+slack_sdk
+azure-storage-blob

@@ -1,0 +1,5 @@
+Fraud Detection Logic:
+
+Checks for transactions from sanctioned countries
+Monitors for high-value transactions
+Configurable threshold via environment variables
