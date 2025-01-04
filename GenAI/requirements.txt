@@ -1,0 +1,9 @@
+streamlit
+plotly
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+pydantic
+openai
